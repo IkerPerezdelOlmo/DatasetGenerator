@@ -29,6 +29,6 @@ You can download them manually from official sources.
 
 ---
 
-#### LGGM/TEST/modify_data.py
+### LGGM/TEST/modify_data.py
 Processes the created graphs to adjust the format to LGGM model 
 
